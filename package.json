@@ -1,0 +1,22 @@
+{
+  "name": "dream-course-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "v12.6.0",
+    "npm": "6.9.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "npm": "^6.11.3",
+    "path": "^0.12.7"
+  }
+}
